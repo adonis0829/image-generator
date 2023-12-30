@@ -23,8 +23,6 @@ This project is a simple website that allows users to generate images based on t
 4. Share the image to social media.
 <br>
 
-<h3>Contributing</h3>
-We welcome contributions from the community. If you would like to contribute to this project, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for the feature or fix you want to contribute:
@@ -51,28 +49,6 @@ We welcome contributions from the community. If you would like to contribute to 
    ```
 
 7. Create a Pull Request to the original repository.
-
-## Contributors
-
-<table>
-  <tbody>
-    <tr>
-         <td align="center"><a href="https://github.com/ahmadammarm"><img src="https://avatars.githubusercontent.com/u/113039347?v=4?s=100" width="100px;" alt="Ahmad Ammar Musyaffa
-"/><br /><sub><b>Ahmad Ammar Musyaffa
-</b></sub></a><br /></td>
-         <td align="center"><a href="https://github.com/javidsumra"><img src="https://avatars.githubusercontent.com/u/112365664?v=4" width="100px;" alt="Ahmad Ammar Musyaffa
-"/><br /><sub><b>Javid Sumra
-</b></sub></a><br /></td>
-         <td align="center"><a href="https://github.com/nishaaannnt"><img src="https://avatars.githubusercontent.com/u/100792085?v=4" width="100px;" alt="Ahmad Ammar Musyaffa
-"/><br /><sub><b>Nishant Dixit
-</b></sub></a><br /></td>
-    </tr>
-  </tbody>
-</table>
-
-Please feel free to reach out if you have any questions or issues related to this project. Thank you for contributing!
-
-
 
 
 
